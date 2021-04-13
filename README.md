@@ -40,11 +40,17 @@ The purpose of this project is Cleaning any data which is missing, malformed, or
    ### the impact of changing grade on the school district
    
    . The average and percentage of passing student affected due to the change grade of math and reading.
+   
     . the character shool perform beterthan the district shool.
+    
    . the overall percentage of passing greade also dropped
+   
    . the Rank of Thomas High school also affected due to the grade change.
+   
    . score by school spending affected
+   
    . score by school size changed
+   
    . score by school type changed.
     
   
